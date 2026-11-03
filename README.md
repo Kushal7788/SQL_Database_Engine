@@ -255,6 +255,10 @@ There is no automated test suite. The engine was verified manually by building i
 - **Working directory.** All paths are relative (`../data`), so the binary must be run from `src/`.
 - **Matrix scope.** Matrix values are handled as raw text tokens and tiles are a fixed 20x20. The sparse-matrix layout described in `docs/matrix.md` is a design proposal and is not implemented.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE). The license covers the code written for this project. The SimpleRA course skeleton it builds on, and the slides in `docs/Overview.html`, remain the work of their original authors.
+
 ## Author
 
 Kushal Shah — [github.com/Kushal7788](https://github.com/Kushal7788)
