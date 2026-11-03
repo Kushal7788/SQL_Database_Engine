@@ -1,0 +1,19 @@
+# Build outputs
+*.o
+*.out
+src/server
+
+# Runtime artifacts
+src/log
+log
+data/temp/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS cruft
+.DS_Store
+Thumbs.db
